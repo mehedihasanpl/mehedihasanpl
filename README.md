@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mehedi Hasan Danee
-- 👀 I’m interested in Flutter Devloper
+- 👀 I’m interested in Flutter Developer
 - 🌱 I’m currently learning Motion Graphics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
